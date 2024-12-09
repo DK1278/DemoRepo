@@ -3,7 +3,7 @@ import React from 'react'
 function index() {
     return (
         <div>
-            <p>Dumy</p>
+            <p>Hello World</p>
         </div>
     )
 }
